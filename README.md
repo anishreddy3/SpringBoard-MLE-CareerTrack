@@ -7,5 +7,5 @@
 3. [Data Wrangling : SparkSQL] (https://github.com/anishreddy3/SpringBoard-MLE-CareerTrack/blob/master/Mini_Project_SQL_with_Spark.ipynb)
 4. [Data Wrangling : SQL at Scale] (https://github.com/anishreddy3/SpringBoard-MLE-CareerTrack/blob/master/Mini_Project_Data_Wrangling_at_Scale_with_Spark.ipynb)
 5. [Data Wrangling : Pandas](https://github.com/anishreddy3/SpringBoard-MLE-CareerTrack/blob/master/Mini_Project_Data_Wrangling_Pandas.ipynb)
-
+6  [Machine Learning : Linear Regression]
 
